@@ -1,0 +1,3 @@
+[submodule "nft-mint-web"]
+	path = nft-mint-web
+	url = ./nft-mint-web
